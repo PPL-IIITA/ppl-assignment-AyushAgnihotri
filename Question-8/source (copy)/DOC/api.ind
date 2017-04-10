@@ -1,0 +1,97 @@
+\begin{theindex}
+
+  \item boy \textit{(module)}, \hyperpage{11--12}
+    \subitem boy.Boy \textit{(class)}, \hyperpage{11--12}
+      \subsubitem boy.Boy.\_\_init\_\_ \textit{(method)}, 
+		\hyperpage{11}
+      \subsubitem boy.Boy.is\_eligible \textit{(method)}, 
+		\hyperpage{11}
+      \subsubitem boy.Boy.modify\_boys\_girlfriend\_budget \textit{(method)}, 
+		\hyperpage{11}
+      \subsubitem boy.Boy.set\_girlfriend \textit{(method)}, 
+		\hyperpage{11}
+      \subsubitem boy.Boy.set\_happiness \textit{(method)}, 
+		\hyperpage{11}
+
+  \indexspace
+
+  \item Choosy \textit{(module)}, \hyperpage{2}
+    \subitem Choosy.Choosy \textit{(class)}, \hyperpage{2}
+  \item couples \textit{(module)}, \hyperpage{13}
+    \subitem couples.Couple \textit{(class)}, \hyperpage{13}
+      \subsubitem couples.Couple.\_\_init\_\_ \textit{(method)}, 
+		\hyperpage{13}
+      \subsubitem couples.Couple.set\_compatibility \textit{(method)}, 
+		\hyperpage{13}
+      \subsubitem couples.Couple.set\_happiness \textit{(method)}, 
+		\hyperpage{13}
+
+  \indexspace
+
+  \item Desperate \textit{(module)}, \hyperpage{3}
+    \subitem Desperate.Desperate \textit{(class)}, \hyperpage{3}
+
+  \indexspace
+
+  \item Essential \textit{(module)}, \hyperpage{4}
+    \subitem Essential.Essential \textit{(class)}, \hyperpage{4}
+
+  \indexspace
+
+  \item Geek \textit{(module)}, \hyperpage{5}
+    \subitem Geek.Geek \textit{(class)}, \hyperpage{5}
+  \item Generous \textit{(module)}, \hyperpage{6}
+    \subitem Generous.Generous \textit{(class)}, \hyperpage{6}
+  \item gift\_item \textit{(module)}, \hyperpage{14}
+    \subitem gift\_item.Gift \textit{(class)}, \hyperpage{14}
+      \subsubitem gift\_item.Gift.\_\_init\_\_ \textit{(method)}, 
+		\hyperpage{14}
+  \item girl \textit{(module)}, \hyperpage{15--16}
+    \subitem girl.girl \textit{(class)}, \hyperpage{15--16}
+      \subsubitem girl.girl.\_\_init\_\_ \textit{(method)}, 
+		\hyperpage{15}
+      \subsubitem girl.girl.is\_eligible \textit{(method)}, 
+		\hyperpage{15}
+      \subsubitem girl.girl.modify\_maintenance\_budget \textit{(method)}, 
+		\hyperpage{15}
+      \subsubitem girl.girl.set\_boyfriend \textit{(method)}, 
+		\hyperpage{15}
+      \subsubitem girl.girl.set\_happiness \textit{(method)}, 
+		\hyperpage{15}
+
+  \indexspace
+
+  \item logs \textit{(module)}, \hyperpage{17}
+    \subitem logs.log\_maker \textit{(function)}, \hyperpage{17}
+  \item Luxury \textit{(module)}, \hyperpage{7}
+    \subitem Luxury.Luxury \textit{(class)}, \hyperpage{7}
+
+  \indexspace
+
+  \item main \textit{(module)}, \hyperpage{18}
+    \subitem main.calc\_happiness \textit{(function)}, \hyperpage{18}
+    \subitem main.geek \textit{(function)}, \hyperpage{18}
+    \subitem main.generous \textit{(function)}, \hyperpage{18}
+    \subitem main.gifts\_details \textit{(function)}, \hyperpage{18}
+    \subitem main.happy\_couple \textit{(function)}, \hyperpage{18}
+    \subitem main.make\_couple \textit{(function)}, \hyperpage{18}
+    \subitem main.miser \textit{(function)}, \hyperpage{18}
+    \subitem main.t\_days \textit{(function)}, \hyperpage{18}
+    \subitem main.test \textit{(function)}, \hyperpage{18}
+  \item Miser \textit{(module)}, \hyperpage{8}
+    \subitem Miser.Miser \textit{(class)}, \hyperpage{8}
+
+  \indexspace
+
+  \item Normal \textit{(module)}, \hyperpage{9}
+    \subitem Normal.Normal \textit{(class)}, \hyperpage{9}
+
+  \indexspace
+
+  \item util \textit{(module)}, \hyperpage{19}
+    \subitem util.create \textit{(function)}, \hyperpage{19}
+    \subitem util.testing\_util \textit{(function)}, \hyperpage{19}
+  \item Utility \textit{(module)}, \hyperpage{10}
+    \subitem Utility.Utility \textit{(class)}, \hyperpage{10}
+
+\end{theindex}

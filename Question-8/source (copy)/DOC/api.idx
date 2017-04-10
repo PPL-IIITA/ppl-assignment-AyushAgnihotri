@@ -1,0 +1,84 @@
+\indexentry{Choosy \textit{(module)}|(hyperpage}{3}
+\indexentry{Choosy \textit{(module)}!Choosy.Choosy \textit{(class)}|(hyperpage}{3}
+\indexentry{Choosy \textit{(module)}!Choosy.Choosy \textit{(class)}|)hyperpage}{3}
+\indexentry{Choosy \textit{(module)}|)hyperpage}{3}
+\indexentry{Desperate \textit{(module)}|(hyperpage}{4}
+\indexentry{Desperate \textit{(module)}!Desperate.Desperate \textit{(class)}|(hyperpage}{4}
+\indexentry{Desperate \textit{(module)}!Desperate.Desperate \textit{(class)}|)hyperpage}{4}
+\indexentry{Desperate \textit{(module)}|)hyperpage}{4}
+\indexentry{Essential \textit{(module)}|(hyperpage}{5}
+\indexentry{Essential \textit{(module)}!Essential.Essential \textit{(class)}|(hyperpage}{5}
+\indexentry{Essential \textit{(module)}!Essential.Essential \textit{(class)}|)hyperpage}{5}
+\indexentry{Essential \textit{(module)}|)hyperpage}{5}
+\indexentry{Geek \textit{(module)}|(hyperpage}{6}
+\indexentry{Geek \textit{(module)}!Geek.Geek \textit{(class)}|(hyperpage}{6}
+\indexentry{Geek \textit{(module)}!Geek.Geek \textit{(class)}|)hyperpage}{6}
+\indexentry{Geek \textit{(module)}|)hyperpage}{6}
+\indexentry{Generous \textit{(module)}|(hyperpage}{7}
+\indexentry{Generous \textit{(module)}!Generous.Generous \textit{(class)}|(hyperpage}{7}
+\indexentry{Generous \textit{(module)}!Generous.Generous \textit{(class)}|)hyperpage}{7}
+\indexentry{Generous \textit{(module)}|)hyperpage}{7}
+\indexentry{Luxury \textit{(module)}|(hyperpage}{8}
+\indexentry{Luxury \textit{(module)}!Luxury.Luxury \textit{(class)}|(hyperpage}{8}
+\indexentry{Luxury \textit{(module)}!Luxury.Luxury \textit{(class)}|)hyperpage}{8}
+\indexentry{Luxury \textit{(module)}|)hyperpage}{8}
+\indexentry{Miser \textit{(module)}|(hyperpage}{9}
+\indexentry{Miser \textit{(module)}!Miser.Miser \textit{(class)}|(hyperpage}{9}
+\indexentry{Miser \textit{(module)}!Miser.Miser \textit{(class)}|)hyperpage}{9}
+\indexentry{Miser \textit{(module)}|)hyperpage}{9}
+\indexentry{Normal \textit{(module)}|(hyperpage}{10}
+\indexentry{Normal \textit{(module)}!Normal.Normal \textit{(class)}|(hyperpage}{10}
+\indexentry{Normal \textit{(module)}!Normal.Normal \textit{(class)}|)hyperpage}{10}
+\indexentry{Normal \textit{(module)}|)hyperpage}{10}
+\indexentry{Utility \textit{(module)}|(hyperpage}{11}
+\indexentry{Utility \textit{(module)}!Utility.Utility \textit{(class)}|(hyperpage}{11}
+\indexentry{Utility \textit{(module)}!Utility.Utility \textit{(class)}|)hyperpage}{11}
+\indexentry{Utility \textit{(module)}|)hyperpage}{11}
+\indexentry{boy \textit{(module)}|(hyperpage}{12}
+\indexentry{boy \textit{(module)}!boy.Boy \textit{(class)}|(hyperpage}{12}
+\indexentry{boy \textit{(module)}!boy.Boy \textit{(class)}!boy.Boy.\_\_init\_\_ \textit{(method)}|hyperpage}{12}
+\indexentry{boy \textit{(module)}!boy.Boy \textit{(class)}!boy.Boy.set\_happiness \textit{(method)}|hyperpage}{12}
+\indexentry{boy \textit{(module)}!boy.Boy \textit{(class)}!boy.Boy.set\_girlfriend \textit{(method)}|hyperpage}{12}
+\indexentry{boy \textit{(module)}!boy.Boy \textit{(class)}!boy.Boy.modify\_boys\_girlfriend\_budget \textit{(method)}|hyperpage}{12}
+\indexentry{boy \textit{(module)}!boy.Boy \textit{(class)}!boy.Boy.is\_eligible \textit{(method)}|hyperpage}{12}
+\indexentry{boy \textit{(module)}!boy.Boy \textit{(class)}|)hyperpage}{13}
+\indexentry{boy \textit{(module)}|)hyperpage}{13}
+\indexentry{couples \textit{(module)}|(hyperpage}{14}
+\indexentry{couples \textit{(module)}!couples.Couple \textit{(class)}|(hyperpage}{14}
+\indexentry{couples \textit{(module)}!couples.Couple \textit{(class)}!couples.Couple.\_\_init\_\_ \textit{(method)}|hyperpage}{14}
+\indexentry{couples \textit{(module)}!couples.Couple \textit{(class)}!couples.Couple.set\_compatibility \textit{(method)}|hyperpage}{14}
+\indexentry{couples \textit{(module)}!couples.Couple \textit{(class)}!couples.Couple.set\_happiness \textit{(method)}|hyperpage}{14}
+\indexentry{couples \textit{(module)}!couples.Couple \textit{(class)}|)hyperpage}{14}
+\indexentry{couples \textit{(module)}|)hyperpage}{14}
+\indexentry{gift\_item \textit{(module)}|(hyperpage}{15}
+\indexentry{gift\_item \textit{(module)}!gift\_item.Gift \textit{(class)}|(hyperpage}{15}
+\indexentry{gift\_item \textit{(module)}!gift\_item.Gift \textit{(class)}!gift\_item.Gift.\_\_init\_\_ \textit{(method)}|hyperpage}{15}
+\indexentry{gift\_item \textit{(module)}!gift\_item.Gift \textit{(class)}|)hyperpage}{15}
+\indexentry{gift\_item \textit{(module)}|)hyperpage}{15}
+\indexentry{girl \textit{(module)}|(hyperpage}{16}
+\indexentry{girl \textit{(module)}!girl.girl \textit{(class)}|(hyperpage}{16}
+\indexentry{girl \textit{(module)}!girl.girl \textit{(class)}!girl.girl.\_\_init\_\_ \textit{(method)}|hyperpage}{16}
+\indexentry{girl \textit{(module)}!girl.girl \textit{(class)}!girl.girl.set\_happiness \textit{(method)}|hyperpage}{16}
+\indexentry{girl \textit{(module)}!girl.girl \textit{(class)}!girl.girl.set\_boyfriend \textit{(method)}|hyperpage}{16}
+\indexentry{girl \textit{(module)}!girl.girl \textit{(class)}!girl.girl.modify\_maintenance\_budget \textit{(method)}|hyperpage}{16}
+\indexentry{girl \textit{(module)}!girl.girl \textit{(class)}!girl.girl.is\_eligible \textit{(method)}|hyperpage}{16}
+\indexentry{girl \textit{(module)}!girl.girl \textit{(class)}|)hyperpage}{17}
+\indexentry{girl \textit{(module)}|)hyperpage}{17}
+\indexentry{logs \textit{(module)}|(hyperpage}{18}
+\indexentry{logs \textit{(module)}!logs.log\_maker \textit{(function)}|hyperpage}{18}
+\indexentry{logs \textit{(module)}|)hyperpage}{18}
+\indexentry{main \textit{(module)}|(hyperpage}{19}
+\indexentry{main \textit{(module)}!main.calc\_happiness \textit{(function)}|hyperpage}{19}
+\indexentry{main \textit{(module)}!main.happy\_couple \textit{(function)}|hyperpage}{19}
+\indexentry{main \textit{(module)}!main.generous \textit{(function)}|hyperpage}{19}
+\indexentry{main \textit{(module)}!main.miser \textit{(function)}|hyperpage}{19}
+\indexentry{main \textit{(module)}!main.geek \textit{(function)}|hyperpage}{19}
+\indexentry{main \textit{(module)}!main.gifts\_details \textit{(function)}|hyperpage}{19}
+\indexentry{main \textit{(module)}!main.t\_days \textit{(function)}|hyperpage}{19}
+\indexentry{main \textit{(module)}!main.make\_couple \textit{(function)}|hyperpage}{19}
+\indexentry{main \textit{(module)}!main.test \textit{(function)}|hyperpage}{19}
+\indexentry{main \textit{(module)}|)hyperpage}{19}
+\indexentry{util \textit{(module)}|(hyperpage}{20}
+\indexentry{util \textit{(module)}!util.testing\_util \textit{(function)}|hyperpage}{20}
+\indexentry{util \textit{(module)}!util.create \textit{(function)}|hyperpage}{20}
+\indexentry{util \textit{(module)}|)hyperpage}{20}
